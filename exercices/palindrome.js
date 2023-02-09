@@ -11,4 +11,4 @@ const isPalindrome = (text) => {
     }
 }
 
-console.log(isPalindrome('aaaaaaaaa'));
+console.log(isPalindrome('hlshaf'));
